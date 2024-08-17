@@ -6,7 +6,7 @@
 * [Лекции 3-го семестра](https://www.youtube.com/playlist?list=PLrS21S1jm43gpHkErn2Ecel6dvio5e6EO) (2020)
 * [Лекции 4-го семестра](https://www.youtube.com/playlist?list=PLrS21S1jm43jQQWGLI228zanoVzu3RkGY) (2020)
 
-## Решения контестов
+## Решения контестов (by [stlss](https://codeforces.com/profile/stlss))
 ### Семестр 1
 1. [Сортировки, куча, бинпоиск](Семестр%201/1-1%20Сортировки,%20куча,%20бинпоиск/README.md)
 2. [Стеки, очереди, СНМ](Семестр%201/1-2%20Стеки,%20очереди,%20СНМ/README.md)
